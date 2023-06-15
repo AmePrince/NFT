@@ -23,6 +23,8 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
+![127 0 0 1_3002_index html(Nest Hub Max)](https://github.com/AmePrince/NFT/assets/131150219/85f31a90-cca5-46b8-b8f1-2121d3c5a807)
+![127 0 0 1_3002_index html(Nest Hub Max) (1)](https://github.com/AmePrince/NFT/assets/131150219/617dcb8c-5ed2-4bf9-8677-79ec9fe61171)
 
 ## My process
 
